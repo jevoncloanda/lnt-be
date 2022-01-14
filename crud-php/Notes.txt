@@ -1,0 +1,11 @@
+SQL Syntax
+INSERT => memasukkan Data
+SELECT => menampilkan data
+UPDATE => mengubah data
+DELETE => menghapus data
+
+PHP CRUD
+C => CREATE
+R => READ
+U => UPDATE
+D => DELETE

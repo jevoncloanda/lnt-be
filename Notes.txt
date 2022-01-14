@@ -1,0 +1,23 @@
+1. Lanjutin CRUD (Basic PHP)
+2. Belajar GIT
+3. Basic Laravel
+
+
+1. Pindahkan Folder
+2. Nyalain XAMPP
+3. Buka Project di VSCode
+
+
+CRUD
+Create	- Done (INSERT)
+Read	- Done (SELECT)
+Update
+Delete	- Done (DELETE)
+
+?idBuku=<?= $book['id']; ?>&judulBuku=<?= $book['judul']
+?idBuku=2&judulBuku=Cerita si Zuck
+
+
+Update
+1. Menampilkan data yang pengen di update
+2. Proses update
